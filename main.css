@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 .jumbotron {
 	background-image: url("clouds.jpg");
 	width:auto;
@@ -7,3 +8,8 @@
 	background-size: cover;
 
 }
+=======
+.jumbotron{
+	background-image: url('clouds.jpg');
+}
+>>>>>>> Stashed changes
