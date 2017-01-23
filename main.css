@@ -1,9 +1,28 @@
 .jumbotron {
-	background-image: url("clouds.jpg");
+	background-image: url("picture.jpg");
 	width:auto;
 	height: 450px;
 	background-repeat: no-repeat;
 	position: relative;
 	background-size: cover;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
 
+
+}
+
+.navbar {
+	padding-bottom: 0px;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+}
+
+.div {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
